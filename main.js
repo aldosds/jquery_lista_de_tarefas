@@ -24,14 +24,5 @@ $(document).ready(function() {
         });
     });
 
-
-    /*
     
-    $('ul').on('mouseenter', function(){
-        $('li').css('text-decoration', 'line-through');
-    });
-    $('ul').on('mouseleave', function(){
-        $('li').css('text-decoration', 'none');
-    });
-    */
 });

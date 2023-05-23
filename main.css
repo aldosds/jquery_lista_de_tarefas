@@ -59,7 +59,7 @@ ul {
 }
 
 ul li {
-    padding-bottom: 5px;
+    padding-top: 10px;
     text-align: center;
     font-size: 18px;
     cursor: pointer;

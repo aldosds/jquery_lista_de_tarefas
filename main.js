@@ -20,12 +20,7 @@ $(document).ready(function() {
 
         $('ul').on('click','li',function(){
             /*alert($(this).text());*/
-            //$(this).css('text-decoration', 'line-through');
-
-            if ($(this).css('text-decoration-line') == "none")
-                $(this).css('text-decoration-line', 'line-through');
-            else
-                $(this).css('text-decoration-line', 'none');
+            $(this).css('text-decoration', 'line-through');
         });
     });
 
